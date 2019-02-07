@@ -19,4 +19,4 @@ Files content:
   Also, when "pixel" argument provided, "DE" returns the RGB values of the hitted surface.
 
 5.- bmp.f95
-  This module contains the "saveBMP" subroutine used to output the "out" array in an easy to watch way.
+  This module contains the "saveBMP" subroutine used to output the "out" array in an easy-to-watch way.
