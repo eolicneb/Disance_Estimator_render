@@ -47,7 +47,7 @@ module DistanceEstimator
         DE=d
         if (present(pixel)) pixel=(/1.,1.,0./)
       end if
-    case (2) ! ZIPERSKY'S PYRAMID
+    case (2) ! SIERPINSKI'S PYRAMID
       q=p
       factor=2.3
       iter=10
